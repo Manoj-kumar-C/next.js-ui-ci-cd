@@ -1,0 +1,11 @@
+✅ docker-compose.prod.yml
+— For running production locally or on a VM
+
+✅ Full CI/CD pipeline
+— GitHub Actions (DEV & PROD workflows already prepared)
+
+✅ Full Azure Container Apps setup
+— ACR
+— Container Apps (dev + prod)
+— GitHub Actions secrets
+— Auto versioning
